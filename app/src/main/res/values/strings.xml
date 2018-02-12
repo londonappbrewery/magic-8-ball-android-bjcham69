@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="buttontext">Press me</string>
+    <string name="whattodo">Not SurE whAt tO Do</string>
+
+    <string name="option1">yeS, Do iT</string>
+    <string name="option2">stoP drInk WatEr</string>
+    <string name="option3">i doNt knoW</string>
+    <string name="option4">reSt sleEp</string>
+    <string name="option5">iT is noT uR daY</string>
 </resources>
